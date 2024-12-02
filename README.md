@@ -7,7 +7,7 @@
 
 ## Eslogan
 
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://raw.githubusercontent.com/didiercomasingenieria/Wanderlust/refs/heads/main/LogoSimbolo%20Sesion%2026.jpg))
+![Logo Wanderlust](https://github.com/didiercomasingenieria/Wanderlust/blob/main/LogoSimbolo%20Sesion%2026.jpg?raw=true)
 
 
 - **"Tu compañero de aventuras."**  
