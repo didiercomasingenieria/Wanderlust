@@ -1,5 +1,16 @@
 # Wanderlust
 
+# BootCamp IA  
+
+## Campista  
+**Didier Snayder Comas Rodríguez**
+
+## Información de la Sesión  
+- **Resto Sesión Tema**: 26  
+- **Reto I**  
+- **Sesión #26**  
+- **Título del Laboratorio**: Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje  
+
 # Propuesta de Identidad de Marca: **Wanderlust**
 
 ## Justificación del Nombre
