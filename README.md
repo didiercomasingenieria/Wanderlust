@@ -107,11 +107,11 @@ Debe incluir las siguientes secciones:
 **Nombre**: *"Wanderlust"*  
 **Eslogan**: *"Tu compañero de aventuras."*  
 
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/imagen%201.jpg?raw=true))
+![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/imagen%201.jpg?raw=true)
 
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%202.jpg?raw=true))
+![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%202.jpg?raw=true)
 
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%203.jpg?raw=true))
+![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%203.jpg?raw=true)
 ---
 
 ### Contenido Visual para Redes Sociales  
