@@ -218,6 +218,12 @@ El documento debe estar organizado y contener las secciones específicas solicit
 ### Identidad de Marca: "Wanderlust"  
 **Lema:** "Tu compañero de aventuras."
 
+![Descripción de la imagen](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%204.png?raw=true)
+
+![Descripción de la imagen](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%205.png?raw=true)
+
+![Descripción de la imagen](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%206.jpg?raw=true)
+
 ---
 
 ### Mensajes Publicitarios
