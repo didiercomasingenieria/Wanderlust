@@ -6,6 +6,10 @@
 - **Wanderlust**: Esta palabra alemana significa "anhelo de viajar" y captura perfectamente la esencia de la marca, conectando con la pasión por explorar y descubrir nuevos lugares.
 
 ## Eslogan
+
+![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://raw.githubusercontent.com/didiercomasingenieria/Wanderlust/refs/heads/main/LogoSimbolo%20Sesion%2026.jpg))
+
+
 - **"Tu compañero de aventuras."**  
   Este eslogan corto y memorable posiciona a la marca como un fiel acompañante en cada viaje, enfatizando la relación entre el producto y el usuario.
 
