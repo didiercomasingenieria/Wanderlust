@@ -107,11 +107,6 @@ Debe incluir las siguientes secciones:
 **Nombre**: *"Wanderlust"*  
 **Eslogan**: *"Tu compañero de aventuras."*  
 
-![Mochila Organizada](https://github.com/didiercomasingenieria/Wanderlust/blob/main/imagen%201.jpg?raw=true)
-
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%202.jpg?raw=true)
-
-![Logo Wanderlust]([ruta_a_la_imagen_en_github](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%203.jpg?raw=true)
 ---
 
 ### Contenido Visual para Redes Sociales  
@@ -119,7 +114,15 @@ Debe incluir las siguientes secciones:
 1. **Imágenes Promocionales**  
    - Incluir de 2 a 3 imágenes generadas con DALL-E.  
    - Editarlas y personalizarlas en Canva con colores, tipografías y elementos de diseño agregados.  
-   - Incluir una breve descripción para explicar cómo las imágenes representan el estilo y funcionalidad de la marca.  
+   - Incluir una breve descripción para explicar cómo las imágenes representan el estilo y funcionalidad de la marca.
+  
+![Mochila Organizada](https://github.com/didiercomasingenieria/Wanderlust/blob/main/imagen%201.jpg?raw=true)
+
+![Descripción de la imagen](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%202.jpg?raw=true)
+
+![Descripción de la imagen](https://github.com/didiercomasingenieria/Wanderlust/blob/main/Imagen%203.jpg?raw=true)
+
+
 
 2. **Mensajes Publicitarios**  
    - *"Acompañando cada paso de tu aventura"*: Este mensaje enfatiza la funcionalidad y versatilidad de los productos Wanderlust.  
