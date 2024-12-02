@@ -170,4 +170,112 @@ Debe incluir las siguientes secciones:
    Se propone publicar contenido 3 veces por semana en cada plataforma. Los lunes se destacará un producto específico, los miércoles se compartirán mensajes inspiradores relacionados con los viajes, y los viernes se interactuará con la audiencia a través de encuestas y preguntas.  
 
 ---
+# BootCamp IA
+
+## Campista: Didier Snayder Comas Rodríguez
+### Resto Sesión Tema: 28
+### Reto I
+
+#### Sesión #28 Reto I
+**Título del Laboratorio:** Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje  
+**Duración:** 2 horas
+
+---
+
+### Planteamiento del Reto para los Estudiantes
+
+**Título del Reto:**  
+Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
+
+**Descripción del Reto:**  
+Como futuros emprendedores en el sector de accesorios de viaje, hoy desarrollarán la identidad de su propia marca de maletas, bolsos y billeteras. Usando IA generativa y su creatividad, crearán los elementos básicos que definen a la marca y los valores que la distinguen. Al finalizar, deben presentar un documento que contenga los elementos clave de su identidad de marca.
+
+---
+
+### Entregable
+
+**Formato del Entregable:**  
+Documento en Google Docs o PDF descargado desde Notion (si prefieren trabajar ahí) o Word.  
+El documento debe estar organizado y contener las secciones específicas solicitadas a continuación:
+
+1. **Generación de Imágenes y Campañas Publicitarias:**
+   - 3 a 5 imágenes visuales generadas con IA y personalizadas con Canva o Figma.
+   - Mensajes publicitarios para las campañas.
+
+2. **Estrategia de Lanzamiento:**
+   - Plan de marketing digital (calendario de publicaciones, estrategias de contenido, herramientas de análisis de audiencia).
+   - Idea de campañas de lanzamiento generadas con IA.
+
+3. **Experiencias Personalizadas con IA:**
+   - Recomendaciones de productos para un cliente hipotético utilizando herramientas de IA.
+   - Creación de flujos de interacción con un asistente virtual o chatbot para la marca.
+
+---
+
+### Identidad de Marca: "Wanderlust"  
+**Lema:** "Tu compañero de aventuras."
+
+---
+
+### Mensajes Publicitarios
+- "Tu próximo destino te espera. ¿Estás listo?" (Fomenta la exploración y la aventura).
+- "Empaqueta tus sueños, no solo tus cosas." (Conecta con el deseo de escapar y vivir nuevas experiencias).
+- "Estilo y funcionalidad en cada viaje." (Resalta los beneficios de los productos).
+- "Wanderlust: tu compañero de aventuras incondicional." (Crea un vínculo emocional con la marca).
+
+---
+
+### Estrategia de Lanzamiento
+
+#### **Plan de Marketing Digital**
+
+- **Calendario de publicaciones:** Continuar con el calendario propuesto, adaptándolo a las fechas clave y eventos relevantes.
+- **Estrategias de contenido:**
+  - Contenido generado por el usuario: Incentivar a los seguidores a compartir sus fotos con los productos Wanderlust utilizando un hashtag específico.
+  - Stories interactivas: Utilizar encuestas, preguntas y desafíos para aumentar la interacción.
+  - Live shopping: Realizar transmisiones en vivo para mostrar los productos y responder preguntas en tiempo real.
+  - Influencer marketing: Colaborar con microinfluencers y nanoinfluencers para llegar a un público más nicho y auténtico.
+
+- **Herramientas de análisis:**
+  - Google Analytics: Para medir el tráfico del sitio web y el rendimiento de las campañas.
+  - Instagram Insights: Para analizar el rendimiento de las publicaciones en Instagram.
+  - Facebook Insights: Para analizar el rendimiento de las publicaciones en Facebook.
+
+- **Ideas de Campañas de Lanzamiento Generadas con IA:**
+  - **Generador de destinos de ensueño:** Crear una herramienta en línea que, a partir de las preferencias del usuario, genere un destino de viaje personalizado y sugiera los productos Wanderlust ideales para ese viaje.
+  - **Avatares virtuales:** Desarrollar avatares virtuales que representen a diferentes tipos de viajeros y que interactúen con los usuarios en las redes sociales, ofreciendo consejos de viaje y recomendaciones de productos.
+
+---
+
+### Experiencias Personalizadas con IA
+
+#### **Recomendaciones de Productos**
+- **Motor de recomendaciones:** Utilizar algoritmos de IA para analizar el historial de navegación, las compras anteriores y las interacciones del usuario en las redes sociales, y así ofrecer recomendaciones de productos personalizadas.
+- **Personalización visual:** Mostrar imágenes de los productos en diferentes escenarios y estilos, adaptadas a las preferencias del usuario.
+- **Chatbot personalizado:** Crear un chatbot que pueda responder a preguntas específicas sobre los productos, realizar recomendaciones personalizadas y ayudar a los usuarios a encontrar lo que buscan.
+
+#### **Creación de Flujos de Interacción con un Asistente Virtual**
+- **Saludo personalizado:** Dar la bienvenida al usuario por su nombre y ofrecer ayuda personalizada.
+- **Preguntas abiertas:** Hacer preguntas sobre los intereses del usuario para ofrecer recomendaciones más precisas.
+- **Integración con redes sociales:** Permitir al usuario iniciar sesión con su cuenta de redes sociales para obtener recomendaciones basadas en sus intereses.
+- **Recomendaciones proactivas:** Ofrecer recomendaciones de productos basados en el historial de navegación y las compras anteriores.
+- **Gestión de carritos de compra:** Ayudar al usuario a agregar productos al carrito, realizar el pago y realizar el seguimiento de su pedido.
+
+**Ejemplo de flujo de interacción:**
+- **Bot:** ¡Hola [Nombre]! ¿En qué puedo ayudarte hoy?
+- **Usuario:** Estoy buscando una mochila para un viaje de senderismo.
+- **Bot:** ¡Claro! ¿Qué tipo de senderismo te gusta hacer? ¿Prefieres algo ligero y compacto o una mochila más grande y resistente?
+- **Usuario:** Prefiero algo ligero y compacto para caminatas de un día.
+- **Bot:** Te recomiendo nuestra mochila de senderismo ultraligera. Es perfecta para caminatas cortas y tiene suficiente espacio para lo esencial. ¿Te gustaría ver más detalles?
+
+---
+
+### Beneficios de utilizar IA para experiencias personalizadas:
+- **Mayor relevancia:** Las recomendaciones serán más relevantes para cada usuario, lo que aumentará las posibilidades de conversión.
+- **Mejor experiencia de usuario:** Los usuarios se sentirán más atendidos y valorados.
+- **Aumento de las ventas:** Las recomendaciones personalizadas pueden impulsar las ventas cruzadas y aumentar el valor promedio de los pedidos.
+
+---
+
+**Nota:** Al combinar la creatividad de la IA con una estrategia de marketing sólida, se permite crear experiencias únicas y personalizadas para tus clientes, consolidando la marca **Wanderlust** como líder en el sector de los accesorios de viaje.
 
